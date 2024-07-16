@@ -1,6 +1,16 @@
 # Penguins_Case_Study
 Data visualization of different kinds of penguins species using R
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Visualization and Cleaning](#data-visualization-and-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [References](#references)
 
 ### Project Overview
 
